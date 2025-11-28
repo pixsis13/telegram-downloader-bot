@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+yt-dlp==2023.11.16
+psycopg2-binary==2.9.9
+requests==2.31.0
+python-dotenv==1.0.0
+flask==2.3.3
+gunicorn==21.2.0
