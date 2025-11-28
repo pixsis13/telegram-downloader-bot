@@ -14,3 +14,9 @@ services:
         fromDatabase:
           name: telegram_bot_db
           property: connectionString
+
+databases:
+  - name: telegram_bot_db
+    plan: free
+    databaseName: telegram_bot
+    user: telegram_user
